@@ -1,0 +1,25 @@
+{
+  "name": "react-native-redux-loading",
+  "version": "1.0.0",
+  "description": "Show/hide loading depend on redux actionType",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redwind/react-native-redux-loading.git"
+  },
+  "keywords": [
+    "redux",
+    "loading",
+    "react-native",
+    "redux"
+  ],
+  "author": "HongPhong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redwind/react-native-redux-loading/issues"
+  },
+  "homepage": "https://github.com/redwind/react-native-redux-loading#readme"
+}
